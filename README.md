@@ -1,4 +1,4 @@
-# powerbi-online-retail-analysis
+# Power BI-online-retail-analysis
 
 # Project Overview
 
